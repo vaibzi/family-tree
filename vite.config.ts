@@ -4,6 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/family-tree/", // <-- replace REPO with your GitHub repo name
   plugins: [react()],
   resolve: {
     alias: {
