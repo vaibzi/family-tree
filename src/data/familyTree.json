@@ -1,0 +1,652 @@
+{
+  "id": "1",
+  "name": "Shriram ~7 Generations earlier",
+  "gender": "male",
+  "birthYear": null,
+  "deathYear": null,
+  "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+  "deathPlace": "Village Asmoli, Uttar Pradesh, India",
+  "spouses": [],
+  "children": [
+    {
+      "id": "2",
+      "name": "Yaduvendra Yadav",
+      "gender": "male",
+      "birthYear": null,
+      "deathYear": null,
+      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+      "deathPlace": "Village Asmoli, Uttar Pradesh, India",
+      "spouses": [],
+      "children": []
+    },
+    {
+      "id": "3",
+      "name": "Tekchand",
+      "gender": "male",
+      "birthYear": 1850,
+      "deathYear": null,
+      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+      "deathPlace": "Village Asmoli, Uttar Pradesh, India",
+      "spouses": [],
+      "children": [
+        {
+          "id": "4",
+          "name": "Hotam  Singh",
+          "gender": "male",
+          "birthYear": null,
+          "deathYear": null,
+          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+          "deathPlace": null,
+          "spouses": [],
+          "children": [
+            {
+              "id": "9",
+              "name": "Dhyan Singh",
+              "gender": "male",
+              "birthYear": null,
+              "deathYear": null,
+              "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+              "deathPlace": null,
+              "spouses": [
+                {
+                  "id": "11",
+                  "name": "Hardaiya",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null
+                },
+                {
+                  "id": "12",
+                  "name": "Chandanya",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null
+                }
+              ],
+              "children": [
+                {
+                  "id": "13",
+                  "name": "Ram Kumar",
+                  "gender": "male",
+                  "birthYear": 1911,
+                  "deathYear": 1989,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": "Village Asmoli, Uttar Pradesh, India",
+                  "spouses": [
+                    {
+                      "id": "18",
+                      "name": "Kalawati",
+                      "gender": "female",
+                      "birthYear": null,
+                      "deathYear": 1949,
+                      "birthPlace": "",
+                      "deathPlace": null
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "19",
+                      "name": "Bhagwan Deyi",
+                      "gender": "female",
+                      "birthYear": 1934,
+                      "deathYear": 1955,
+                      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                      "deathPlace": null,
+                      "spouses": [],
+                      "children": []
+                    },
+                    {
+                      "id": "20",
+                      "name": "Din Dyal Singh",
+                      "gender": "male",
+                      "birthYear": 1937,
+                      "deathYear": 2017,
+                      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                      "deathPlace": "Dwarka, New Delhi",
+                      "spouses": [
+                        {
+                          "id": "27",
+                          "name": "Anguri Devi",
+                          "gender": "female",
+                          "birthYear": null,
+                          "deathYear": null,
+                          "birthPlace": "Kota, Uttar Pradesh",
+                          "deathPlace": null
+                        }
+                      ],
+                      "children": [
+                        {
+                          "id": "23",
+                          "name": "Rajeev Kumar",
+                          "gender": "male",
+                          "birthYear": 1963,
+                          "deathYear": null,
+                          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "26",
+                              "name": "Anita Yadav",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "28",
+                              "name": "Gaurav Yadav",
+                              "gender": "male",
+                              "birthYear": 1991,
+                              "deathYear": null,
+                              "birthPlace": "New Delhi",
+                              "deathPlace": null,
+                              "spouses": [
+                                {
+                                  "id": "32",
+                                  "name": "Sunita Yadav",
+                                  "gender": "female",
+                                  "birthYear": null,
+                                  "deathYear": null,
+                                  "birthPlace": "",
+                                  "deathPlace": null
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "id": "34",
+                                  "name": "Daivik Yadav",
+                                  "gender": "male",
+                                  "birthYear": 2019,
+                                  "deathYear": null,
+                                  "birthPlace": "New Delhi",
+                                  "deathPlace": null,
+                                  "spouses": [],
+                                  "children": []
+                                },
+                                {
+                                  "id": "35",
+                                  "name": "Gauravs daughter",
+                                  "gender": "female",
+                                  "birthYear": 2021,
+                                  "deathYear": null,
+                                  "birthPlace": "New Delhi",
+                                  "deathPlace": null,
+                                  "spouses": [],
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "29",
+                              "name": "Saurabh Yadav",
+                              "gender": "male",
+                              "birthYear": 1991,
+                              "deathYear": null,
+                              "birthPlace": "New Delhi",
+                              "deathPlace": null,
+                              "spouses": [
+                                {
+                                  "id": "33",
+                                  "name": "Saurabhs wife",
+                                  "gender": "female",
+                                  "birthYear": null,
+                                  "deathYear": null,
+                                  "birthPlace": "",
+                                  "deathPlace": null
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "id": "36",
+                                  "name": "Saurabhs son",
+                                  "gender": "male",
+                                  "birthYear": 2024,
+                                  "deathYear": null,
+                                  "birthPlace": "New Delhi",
+                                  "deathPlace": null,
+                                  "spouses": [],
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "24",
+                          "name": "Mukesh Kumar",
+                          "gender": "male",
+                          "birthYear": 1968,
+                          "deathYear": null,
+                          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "25",
+                              "name": "Poonam Yadav",
+                              "gender": "female",
+                              "birthYear": 1972,
+                              "deathYear": null,
+                              "birthPlace": "Brahampuri, Seelampur, Delhi",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "30",
+                              "name": "Divya Yadav",
+                              "gender": "female",
+                              "birthYear": 1998,
+                              "deathYear": null,
+                              "birthPlace": "New Delhi",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            },
+                            {
+                              "id": "31",
+                              "name": "Vaibhav Yadav",
+                              "gender": "male",
+                              "birthYear": 2001,
+                              "deathYear": null,
+                              "birthPlace": "New Delhi",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "21",
+                      "name": "Kishan Swaroop",
+                      "gender": "male",
+                      "birthYear": 1940,
+                      "deathYear": 2005,
+                      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                      "deathPlace": null,
+                      "spouses": [
+                        {
+                          "id": "37",
+                          "name": "Saroj",
+                          "gender": "female",
+                          "birthYear": null,
+                          "deathYear": null,
+                          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                          "deathPlace": null
+                        }
+                      ],
+                      "children": [
+                        {
+                          "id": "38",
+                          "name": "Narayan Singh",
+                          "gender": "male",
+                          "birthYear": 1985,
+                          "deathYear": null,
+                          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "39",
+                              "name": "Monika",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "40",
+                              "name": "Harshit",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            },
+                            {
+                              "id": "41",
+                              "name": "Narayans daughter",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "42",
+                          "name": "Anju Yadav",
+                          "gender": "female",
+                          "birthYear": null,
+                          "deathYear": null,
+                          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "43",
+                              "name": "Sanjay Yadav",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "44",
+                              "name": "Mohit Yadav",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            },
+                            {
+                              "id": "45",
+                              "name": "Mukul Yadav",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "22",
+                      "name": "Saroj",
+                      "gender": "female",
+                      "birthYear": 1947,
+                      "deathYear": null,
+                      "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+                      "deathPlace": null,
+                      "spouses": [
+                        {
+                          "id": "46",
+                          "name": "Maharaj Singh",
+                          "gender": "male",
+                          "birthYear": null,
+                          "deathYear": null,
+                          "birthPlace": "",
+                          "deathPlace": null
+                        }
+                      ],
+                      "children": [
+                        {
+                          "id": "47",
+                          "name": "Harish Yadav",
+                          "gender": "male",
+                          "birthYear": 1970,
+                          "deathYear": null,
+                          "birthPlace": "",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "48",
+                              "name": "Rama Yadav",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "50",
+                              "name": "Chaitanya Yadav",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            },
+                            {
+                              "id": "49",
+                              "name": "Anu Yadav",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "51",
+                          "name": "Shikha Yadav",
+                          "gender": "female",
+                          "birthYear": null,
+                          "deathYear": null,
+                          "birthPlace": "",
+                          "deathPlace": null,
+                          "spouses": [
+                            {
+                              "id": "52",
+                              "name": "Dr.Tarun Yadav",
+                              "gender": "male",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null
+                            }
+                          ],
+                          "children": [
+                            {
+                              "id": "53",
+                              "name": "Lakshita Yadav",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            },
+                            {
+                              "id": "54",
+                              "name": "Divya Yadav",
+                              "gender": "female",
+                              "birthYear": null,
+                              "deathYear": null,
+                              "birthPlace": "",
+                              "deathPlace": null,
+                              "spouses": [],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "14",
+                  "name": "Hari Singh",
+                  "gender": "male",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "15",
+                  "name": "Bhagatji",
+                  "gender": "male",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "16",
+                  "name": "Madhav Singh /Fauji",
+                  "gender": "male",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "17",
+                  "name": "Premwati",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "Village Kheda, Uttar Pradesh, India",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "10",
+              "name": "Battu Singh",
+              "gender": "male",
+              "birthYear": null,
+              "deathYear": null,
+              "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+              "deathPlace": null,
+              "spouses": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Bihari  Singh",
+          "gender": "male",
+          "birthYear": null,
+          "deathYear": null,
+          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+          "deathPlace": null,
+          "spouses": [],
+          "children": []
+        },
+        {
+          "id": "6",
+          "name": "Dodraj  Singh",
+          "gender": "male",
+          "birthYear": null,
+          "deathYear": 1960,
+          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+          "deathPlace": null,
+          "spouses": [],
+          "children": [
+            {
+              "id": "55",
+              "name": "Rampiya",
+              "gender": "female",
+              "birthYear": null,
+              "deathYear": null,
+              "birthPlace": "",
+              "deathPlace": null,
+              "spouses": [],
+              "children": [
+                {
+                  "id": "56",
+                  "name": "Girvan",
+                  "gender": "male",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "57",
+                  "name": "Murti",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "58",
+                  "name": "Chameli",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                },
+                {
+                  "id": "59",
+                  "name": "Saroj",
+                  "gender": "female",
+                  "birthYear": null,
+                  "deathYear": null,
+                  "birthPlace": "",
+                  "deathPlace": null,
+                  "spouses": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "name": "Salegram",
+          "gender": "male",
+          "birthYear": null,
+          "deathYear": null,
+          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+          "deathPlace": null,
+          "spouses": [],
+          "children": []
+        },
+        {
+          "id": "8",
+          "name": "Daughter Name not known",
+          "gender": "female",
+          "birthYear": null,
+          "deathYear": null,
+          "birthPlace": "Village Asmoli, Uttar Pradesh, India",
+          "deathPlace": null,
+          "spouses": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
